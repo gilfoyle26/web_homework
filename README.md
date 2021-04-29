@@ -1,7 +1,7 @@
 -Sami Çağlar Acar
 -G181210040 
--2.öğretim A grubu- Ders
--3. Öğretmeni: CAN YÜZKOLLAR
+-2.öğretim A grubu 
+-Ders Öğretmeni: CAN YÜZKOLLAR
 
 -Projemde memleketim olan Eskişehir'i tanıtacağım. Gezilcek yerler , neler yenir neler içilir vb. site tasarımı olarak responsive bir yapı kullanacağım çünkü kullanmazsak tablet ve telefonlarda görüntü kayacaktır . Responsive tasarım kolaylaştıran boostrap framework'unden yararlanacağım. Hakkında sayfamızda çeşitli düzenlemeler ile linkler ile desteklenecek yavan bir tasarım olmayacaktır.
 
